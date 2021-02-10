@@ -17,7 +17,7 @@ Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack softw
 - Golang
 
 ### 🐱‍👤 Frontend Skills:
-- HTML5 and CSS3,Javascript/Typescript
+- HTML5 and CSS3, Javascript/Typescript
 - Vuejs(Nuxtjs) and Reactjs(Nextjs)
 - Tailwindcss and Bootstrap
 - Adobe XD
