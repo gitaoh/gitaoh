@@ -1,6 +1,6 @@
 ### ✨ Hello there ✨
 
-Hi my name is Joseph @gitaoh. I am a Fullstack software developer.
+Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack software developer.
 
 > Check out my profile
 
