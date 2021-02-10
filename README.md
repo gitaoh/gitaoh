@@ -2,7 +2,7 @@
 
 Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack software developer.
 
-> Check out my profile
+> Check out my profile @gitaoh
 
 ### 🍗 Experience:
 - Languages: Typescript/Javascript, Go(Golang), Python
