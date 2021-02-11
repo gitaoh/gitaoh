@@ -13,8 +13,8 @@ Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack softw
 - OS: Windows
 
 ### 🕵️‍♀️ Backend Skills:
-- Django
-- Golang
+- Django (Fullstack :- monolith)
+- Golang (Fullstack :- monolith)
 
 ### 🐱‍👤 Frontend Skills:
 - HTML5 and CSS3, Javascript/Typescript
