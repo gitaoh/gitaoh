@@ -9,7 +9,7 @@ Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack softw
 - DevOps: Docker, Github Actions
 - Databases: PostgreSQL/Mysql, MongoDB
 - VCS: Git(Github)
-- IDEs: GoLand, Pycharm
+- IDEs: GoLand, Pycharm, Phpstorm
 - OS: Windows
 
 ### 🕵️‍♀️ Backend Skills:
