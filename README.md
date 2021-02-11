@@ -28,4 +28,4 @@ I am currently looking for job opportunities in kenya or remote.
 If you need any work web programming related done you can find me on [Upwork](https://www.upwork.com/freelancers/~01b6f269f6cdff380a).
 
 ### ⚡ Fun fact
-> *I want to be a space <b>PIRATE</b> one day* - **watch out**
+> I want to be a space <b>PIRATE</b> one day - **watch out**
