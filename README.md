@@ -5,17 +5,16 @@ Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack softw
 > Check out my profile
 
 ### 🍗 Experience:
-- Languages: Typescript/Javascript, Go(Golang), Python, PHP
+- Languages: Typescript/Javascript, Go(Golang), Python
 - DevOps: Docker, Github Actions
 - Databases: PostgreSQL/Mysql, MongoDB
 - VCS: Git(Github)
-- IDEs: GoLand, Pycharm, Phpstorm
+- IDEs: GoLand, Pycharm
 - OS: Windows
 
 ### 🕵️‍♀️ Backend Skills:
 - Django (or fullstack)
 - Golang (or fullstack)
-- Laravel (or fullstack)
 
 ### 🐱‍👤 Frontend Skills:
 - HTML5 and CSS3, Javascript/Typescript
