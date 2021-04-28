@@ -19,7 +19,7 @@ Hi my name is Joseph [gitaoh](https://github.com/gitaoh). I am a Fullstack softw
 ### 🐱‍👤 Frontend Skills:
 - HTML5 and CSS3, Javascript/Typescript
 - Vuejs(Nuxtjs and Gridsome)
-- Tailwindcss and Bootstrap
+- Tailwindcss
 - Adobe XD
 
 ### 🔭 Employment
