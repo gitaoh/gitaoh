@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Ubuntu&logoColor=black)
-![](https://img.shields.io/badge/Intellij-0078D4?style=for-the-badge&logo=Intellij&logoColor=white)
+![](https://img.shields.io/badge/Intellij-0078D4?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
