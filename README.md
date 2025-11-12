@@ -1,4 +1,4 @@
-## Hi there 👋 | FullTime Debugger
+## Full Time Debugger
 
 ![](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
