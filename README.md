@@ -1,8 +1,8 @@
 ## Full Time Debugger
 
 ![](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Ubuntu&logoColor=black)
-![](https://img.shields.io/badge/Intellij-0078D4?style=for-the-badge&logo=Pycharm&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=Ubuntu&logoColor=black)
+![](https://img.shields.io/badge/Pycharm-0078D4?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -12,5 +12,6 @@
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/AWS_CDK-288D46?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Ggoogle_Cloud-288D46?style=for-the-badge&logo=gcp&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
