@@ -1,7 +1,7 @@
 ## Full Time Debugger
 
 ![](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=Ubuntu&logoColor=black)
-![](https://img.shields.io/badge/Pycharm-0078D4?style=for-the-badge&logo=Pycharm&logoColor=white)
+![](https://img.shields.io/badge/Webstorm-0078D4?style=for-the-badge&logo=Webstorm&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Powershell-2bbc8a?style=for-the-badge&logo=gnu-bash&logoColor=white)
