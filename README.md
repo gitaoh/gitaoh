@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/Webstorm-104E64FF?style=for-the-badge&logo=Webstorm&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/NextJS-indigo?style=for-the-badge&logo=next.js&logoColor=F7DF1E)
+![](https://img.shields.io/badge/NestJS-blue?style=for-the-badge&logo=nestjs&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Bash-2bbc8a?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
